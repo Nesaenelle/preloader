@@ -13,7 +13,8 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #fffde6; }
+  background: #fffde6;
+  overflow: hidden; }
   .preloader.animation .preloader__group--left .preloader__item:nth-child(1) {
     animation: leftGroupStart 3s 800ms ease, FirstDotLeft 1s 1750ms ease-in-out;
     animation-fill-mode: forwards; }

@@ -14,6 +14,7 @@ html {
   align-items: center;
   justify-content: center;
   background: #fffde6;
+  overflow: hidden;
   &.animation {
     .preloader {
       &__group {
@@ -97,7 +98,7 @@ html {
     }
   }
   &__content {
-    display: flex;
+	display: flex;
   }
   &__group {
     display: flex;
