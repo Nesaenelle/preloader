@@ -264,7 +264,7 @@ html {
     0% {
       transform: rotate(0) translate(0, 0); }
     100% {
-      transform: rotate(45deg) translate(8px, -16px); } } }
+      transform: rotate(45deg) translate(8px, -15.8px); } } }
 
 @media screen and (min-width: 1025px) {
   @keyframes groupRotateRight {
@@ -278,4 +278,4 @@ html {
     0% {
       transform: rotate(0) translate(0, 0); }
     100% {
-      transform: rotate(-45deg) translate(-10px, -12px); } } }
+      transform: rotate(-45deg) translate(-10px, -11.5px); } } }
